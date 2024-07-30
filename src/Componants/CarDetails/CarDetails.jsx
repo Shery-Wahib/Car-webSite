@@ -27,13 +27,6 @@ export default function CarDetails() {
     if (!car) return <div>Loading...</div>;
     return (
         <>
-            {/* <div className="container mt-5 pt-3">
-                <div>
-                    <button className=' btn border-0 bg-transparent text-primary ' onClick={() => navigate('/')}>Home</button> /
-                    <button className=' btn border-0 bg-transparent text-primary ' onClick={() => navigate('/cars')}> Cars</button>
-                </div>
-
-            </div> */}
             <section className="container-fluid  vh-100">
                 <div className=" p-5">
                     <button className=' btn border-0 bg-transparent text-primary ' onClick={() => navigate('/')}>Home</button> /
