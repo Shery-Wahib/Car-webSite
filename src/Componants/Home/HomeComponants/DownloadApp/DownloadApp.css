@@ -1,0 +1,11 @@
+input {
+    height: 2.3em;
+    border: 1px solid #cedcff;
+    border-radius: 15px;
+    background-color: #cedcff;
+    min-width: 200px;
+}
+.align-items-end img {
+    max-width: 80%;
+    max-height: 80%;
+}

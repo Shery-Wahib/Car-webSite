@@ -1,0 +1,10 @@
+.what-people-say {
+    background: #f7fbff url(/public/imges/landing-page/sec-6/bg-sec6.png) no-repeat right top;
+    background-size: 20%;
+}
+.cardd {
+    border: none !important;
+    border-radius:22px;
+    background-color: #f7fbff ;
+
+}
